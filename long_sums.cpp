@@ -15,7 +15,7 @@ int main()
         arr1[i] = str1[j] - '0';
     }
 
-    //Stroing num2 into array
+    //Storing num2 into array
     for (int i = len - 1, j = str2.length() - 1; j >= 0; --i, --j)
     {
         arr2[i] = str2[j] - '0';
